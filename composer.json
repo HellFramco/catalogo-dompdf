@@ -1,0 +1,17 @@
+{
+    "name": "portatil2/catalogo",
+    "autoload": {
+        "psr-4": {
+            "Portatil2\\Catalogo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sistemas Manuel",
+            "email": "manuelbarrios7891238520@gmail.com"
+        }
+    ],
+    "require": {
+        "imagine/imagine": "^1.3"
+    }
+}
